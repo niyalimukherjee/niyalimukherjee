@@ -50,7 +50,6 @@ I enjoy solving complex problems, working on innovative projects, and continuous
 ---
 
 # 📊 GitHub Stats:
-<!-- Use count_private=false if no token is set -->
 ![](https://github-readme-stats.vercel.app/api?username=niyalimukherjee&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false)  
 
 ![](https://streak-stats.demolab.com?user=niyalimukherjee&theme=radical&hide_border=false)  
@@ -63,8 +62,8 @@ I enjoy solving complex problems, working on innovative projects, and continuous
 
 ---
 
-## 📈 Contribution Graph
-[![Niyali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niyalimukherjee&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+## 📅 Contribution Calendar
+[![Niyali’s GitHub Contribution Calendar](https://github-contributions.vercel.app/niyalimukherjee.svg)](https://github.com/niyalimukherjee)  
 
 ---
 
