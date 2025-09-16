@@ -62,6 +62,8 @@ I enjoy solving complex problems, working on innovative projects, and continuous
 
 ---
 
+## 📅 Contribution Calendar
+[![Niyali’s GitHub Contribution Calendar](https://github-contributions.vercel.app/niyalimukherjee.svg)](https://github.com/niyalimukherjee)  
 
 ---
 
