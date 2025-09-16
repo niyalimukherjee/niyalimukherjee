@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working as Associate Software Engineer in Accenture<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🌱 I’m currently learning React Js, Next Js, React Native<br>
+I am an Associate Software Engineer at Accenture with 2 years of experience. My primary expertise lies in frontend development with React.js, Next.js, and JavaScript, but I am equally passionate about full-stack development, exploring backend technologies, and creating end-to-end solutions.
+
+I enjoy solving complex problems, working on innovative projects, and continuously expanding my technical skill set. With experience in developing responsive UIs, integrating APIs, and optimizing performance, I aim to grow as a full-stack developer and contribute to impactful products.
+
 Portfolio:https://niyali-s-portfolio.vercel.app/
 
 
